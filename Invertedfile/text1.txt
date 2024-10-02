@@ -1,0 +1,1 @@
+The above code reads a text file line by line and splits each line into individual words. It then removes any punctuation and converts each word to lowercase before adding it to the inverted index. The inverted index is stored in a Map where the keys are the words and the values are integers representing the document IDs to term frequencies.
